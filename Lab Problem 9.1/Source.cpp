@@ -41,4 +41,5 @@ int main() {
 	cout << "First and last:      ";
 	cout << random_integers[0] << "  " << random_integers[9] << endl;
 
+	cout << "Press any key to continue . . ." << endl;;
 }
