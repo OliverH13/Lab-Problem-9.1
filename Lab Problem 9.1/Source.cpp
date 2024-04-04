@@ -32,4 +32,9 @@ int main() {
 	}
 	cout << endl;
 
+	// Every element in reversed order
+	cout << "Reversed order:      ";
+	cout << random_integers[9] << "  " << random_integers[8] << "  " << random_integers[7] << "  " << random_integers[6] << "  " << random_integers[5] << "  ";
+	cout << random_integers[4] << "  " << random_integers[3] << "  " << random_integers[2] << "  " << random_integers[1] << "  " << random_integers[0] << "  ";
+
 }
